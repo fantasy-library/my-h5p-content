@@ -1,0 +1,19 @@
+<manifest xmlns="http://www.imsproject.org/xsd/imscp_rootv1p1p2" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_rootv1p2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" identifier="com.scorm.manifesttemplates.scorm12" version="1" xsi:schemaLocation="http://www.imsproject.org/xsd/imscp_rootv1p1p2 imscp_rootv1p1p2.xsd http://www.imsglobal.org/xsd/imsmd_rootv1p2p1 imsmd_rootv1p2p1.xsd http://www.adlnet.org/xsd/adlcp_rootv1p2 adlcp_rootv1p2.xsd">
+<metadata>
+	<schema>ADL SCORM</schema>
+	<schemaversion>1.2</schemaversion>
+</metadata>
+<organizations default="B0">
+	<organization identifier="B0">
+		<title>How to explore SDGs research in SciVal</title>
+		<item identifier="1292457956431781089-template-course-presentation-1292624314740691359" identifierref="1292457956431781089-template-course-presentation-1292624314740691359" isvisible="true">
+			<title>How to explore SDGs research in SciVal</title>
+		</item>
+	</organization>
+</organizations>
+<resources>
+	<resource identifier="1292457956431781089-template-course-presentation-1292624314740691359" type="webcontent" adlcp:scormtype="sco" href="1292457956431781089-template-course-presentation-1292624314740691359.html">
+		<file href="1292457956431781089-template-course-presentation-1292624314740691359.html" />
+	</resource>
+</resources>
+</manifest>
